@@ -7,6 +7,6 @@
     <string name="next_gtfs_rts_area_max_lat">54.33055</string>
     <string name="next_gtfs_rts_area_min_lng">-130.35283</string>
     <string name="next_gtfs_rts_area_max_lng">-130.26746</string>
-    <integer name="next_gtfs_rts_first_departure_in_sec">1797343800</integer><!-- 2026/12/15 07:10:00 PST -->
-    <integer name="next_gtfs_rts_last_departure_in_sec">1798175160</integer><!-- 2026/12/24 22:06:00 PST -->
+    <integer name="next_gtfs_rts_first_departure_in_sec">1797343800</integer><!-- 2026/12/15 07:10:00 PDT -->
+    <integer name="next_gtfs_rts_last_departure_in_sec">1798175160</integer><!-- 2026/12/24 22:06:00 PDT -->
 </resources>
